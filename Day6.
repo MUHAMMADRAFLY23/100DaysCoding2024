@@ -1,0 +1,19 @@
+public class Day6 {
+  public static void main(String[] args){
+    System.out.println("-------------");
+    //variabel deklarasi 
+    String s1,s2,s3;
+    byte no1,no2;
+    int no11,no22;
+    short n1,n2;
+    //inisialisasi 
+    s1 = "Hari ";
+    s2 = "Rafly";
+    s3 = "D0223509";
+    no1 = 6;
+    System.out.println(s1+no1);
+    System.out.println("Nama:"+s2+"\nNIM:"+s3);
+    
+    
+  }
+}
