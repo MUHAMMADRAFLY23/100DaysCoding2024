@@ -1,0 +1,18 @@
+
+public class rafly_day10 {
+    
+    public static void main(String[] args) {
+        
+                System.out.println("Hari 10");
+        byte a,b,c ;
+        a=121;
+        b=27;
+        c=56; 
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+    
+
+    }
+    
+}
