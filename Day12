@@ -1,0 +1,14 @@
+
+public class hari_12 {
+    
+   public static void main(String args[])
+   { 
+    System.out.println("Day 12");
+    //deklarasi dan inisialisasi 
+    int a = 89099;
+    int b = -9999;
+    //print
+    System.out.println("Nilai a = "+a);
+    System.out.println("Nilai b = "+b);
+   }
+ }
